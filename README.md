@@ -4,7 +4,7 @@
 
 Please refer to the following format. 
 ```sh
-python getIDtoken.py username user_password user_pool_id app_client_id app_client_secret
+python getIDtoken.py <username> <user_password> <user_pool_id> <app_client_id> <app_client_secret>
 ```
 
 
@@ -12,5 +12,5 @@ python getIDtoken.py username user_password user_pool_id app_client_id app_clien
 
 Please refer to the following format. 
 ```sh
-python sendRequest.py URL ID_Token
+python sendRequest.py <URL> <ID_Token>
 ```
