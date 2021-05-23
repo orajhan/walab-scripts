@@ -30,4 +30,4 @@ if __name__ == "__main__":
         except Exception as e:
             print(e)
     else:
-        print(" Please check your inputs.\n example) python3 sendRequest.py YourURL YourToken")
+        print(" Please check your inputs.\n example) python sendRequest.py <URL> <ID_Token>")
